@@ -14,5 +14,14 @@
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.58.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roundtableee/Feature-Student-Registration-Form-Functionality.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Roundtableee/Feature-Student-Registration-Form-Functionality/issues"
+  },
+  "homepage": "https://github.com/Roundtableee/Feature-Student-Registration-Form-Functionality#readme"
 }
