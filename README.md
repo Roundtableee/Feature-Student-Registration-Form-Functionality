@@ -25,7 +25,7 @@ Target page: https://demoqa.com/automation-practice-form
 
 ## Setup
 
-npm init -y
-npm i -D @playwright/test
-npx playwright install
+- npm init -y
+- npm i -D @playwright/test
+- npx playwright install
 
